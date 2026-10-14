@@ -1,5 +1,7 @@
 # Pipeline com IA Integrada
 
+[![CI](https://github.com/amanda-martins-data/ai-pipeline-qualidade-ar/actions/workflows/ci.yml/badge.svg)](https://github.com/amanda-martins-data/ai-pipeline-qualidade-ar/actions/workflows/ci.yml)
+
 Dois agentes de IA aplicados ao pipeline dos Projetos 01/03/04:
 1. **Agente de qualidade de dados** — detecta anomalias estatisticamente
    (Python puro, sem IA) e usa o Claude só para explicar os achados em
