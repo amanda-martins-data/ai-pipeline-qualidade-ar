@@ -9,9 +9,8 @@ Dois agentes de IA aplicados ao pipeline dos Projetos 01/03/04:
 2. **Agente de documentação** — lê um modelo SQL do dbt e sugere
    descrições de colunas no formato `schema.yml`, para revisão humana.
 
-Projeto 05 de uma série de 6 documentando minha transição de Analista
-de Dados para Engenharia/Arquitetura de Dados — veja o [perfil
-completo](https://github.com/amanda-martins-data).
+Projeto 05 do meu portfólio de Engenharia e Arquitetura de Dados — veja o
+[perfil completo](https://github.com/amanda-martins-data).
 
 ## Arquitetura
 
